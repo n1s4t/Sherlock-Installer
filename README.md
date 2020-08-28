@@ -1,7 +1,7 @@
-#Sherlock_Installer
+# Sherlock_Installer
 
 
-###It makes easy to install sherlock 
+### It makes easy to install sherlock 
 
 * How to use:
 ```
