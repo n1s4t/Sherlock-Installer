@@ -8,5 +8,8 @@
 $ git clone https://github.com/Tasin-coder/Sherlock-Installer
 ```
 ```
+$ cd Sherlock-Installer
+```
+```
 $ bash Sherlock-Installer.sh
 ```
